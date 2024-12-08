@@ -1,0 +1,120 @@
+.body-main{
+  position: relative;
+  width: 100%;
+  height:1422px ;
+  background: #f5f5f5;
+
+}
+.main-g{
+  width: 982px;
+  height: 1422px;
+  background: #ffffff;
+  margin: 3px auto;
+  border-bottom: #d3d3d3 1px solid;
+}
+.main-1{
+  position: relative;
+  top: 1px;
+  left: -1px;
+  float: left;
+  width: 730px;
+  height: 1421px;
+  background: #ffffff;
+  border-left: #d3d3d3 1px solid;
+}
+
+.main-1-Recommend{
+  position: relative;
+  height: 500px;
+  width:731px ;
+  background: #ffffff;
+  top:-6px;
+  float: left;
+}
+.Recommend-bar ,ul ,li,.Recommend-bar-icon{
+  float: left;
+}
+.Recommend-bar{
+  width: 730px;
+  height: 60px;
+  background: #ffffff;
+}
+.Recommend-bar-p ,.Recommend-bar-icon{
+  position: relative;
+  top:20px;
+  left: 30px;
+  font-size: 23px;
+}
+.Recommend-bar-icon{
+  position: relative;
+  top:25px;
+  left: 24px;
+}
+.Recommend-bar ul li{
+  position: relative;
+  top: -2px;
+  left: 150px;
+  color: #535353;
+  font-size:12px ;
+  margin-left: 21px;
+}
+
+
+/* list */
+.main-1-List .Recommend-bar ul li{
+  position: relative;
+  top: -2px;
+  left: 150px;
+  color: #535353;
+  font-size:12px ;
+  margin-left: 0px;
+}
+.Recommend-li{
+  float: right;
+  margin-left: 142px;
+}
+.main-1-newdish .Recommend-li{
+  margin-left: 512px;
+}
+.main-1-Recommend .Recommend-bar ul  .Recommend-li{
+  color: #535353;
+  left: 311px;
+}
+.Recommend-li div{
+  margin-left: 35px;
+  margin-top: -11px;
+  float: right;
+  width: 14px;
+  height: 10px;
+  background: url("../images/sprites/index.png") no-repeat 0px -242px;
+}
+.Recommend-red{
+  position: relative;
+  top: -4px;
+  left: 15px;
+}
+.Recommend-content{
+  height: 480px;
+  width: 731px;
+  background: white;
+}
+.Recommend-content-8{
+  text-align: 3px;
+}
+.Recommend-content-1,.Recommend-content-2,.Recommend-content-3,.Recommend-content-4
+,.Recommend-content-5,.Recommend-content-6,.Recommend-content-7,
+.Recommend-content-8{
+  position: relative;
+  width: 140px;
+  height: 190px;
+  margin-left: 34px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  float: left;
+}
+.Recommend-content .hot-img{
+  border: solid 1px #d3d3d3;
+}
+.Recommend-content p{
+  font-size: 14px;
+}

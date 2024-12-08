@@ -1,0 +1,48 @@
+.main-1-newdish{
+  position: relative;
+  top: 494px;
+  width: 731px;
+  height: 280px;
+  background: #ffffff;
+}
+.main-1-newdish .Recommend-bar {
+  position: relative;
+  top: 17px;
+}
+.main-1-newdish .Recommend-bar {
+  position: relative;
+  top: -480px;
+}
+.dish-ground{
+  position: relative;
+  top: 100px;
+  left: 17px;
+  width: 690px;
+  height: 190px;
+  background: #f5f5f5;
+  border: solid 1px #d3d3d3;
+}
+.dish-1,.dish-2,.dish-3,.dish-4,.dish-5{
+  position: relative;
+  height: 100px;
+  width: 120px;
+  background: url("../images/sprites/coverall.png") 0px -572px;
+  float: left;
+  margin: 15px 0px 15px 15px;
+  top: -545px;
+  left: 7px;
+  -webkit-box-reflect: below 1px -webkit-gradient(linear, left
+  top, left bottom, from(transparent), color-stop(50%, transparent) ,
+  to(rgba(250, 250, 250, 0.2)));
+}
+.dish-ground .dish-name{
+  font-size: 13px;
+  /*单行显示溢出文字用省略号表示*/
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+.dish-ground .singer-name{
+  font-size: 13px;
+  color: #878787;
+}

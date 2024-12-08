@@ -1,0 +1,212 @@
+.body-top{
+  width: 100%;
+  height: 106px;
+  background: url("../images/sprites/topbar.png") repeat-x 0 -80px;
+}
+.top-gg-1{
+  width: 1120px;
+  height: 70px;
+  margin: 0 auto;
+}
+.top-gg-2{
+  height: 34px;
+  width: 100%;
+  background: url("../images/sprites/topbar.png") repeat-x 0 -230px;
+}
+.top-1{
+  width: 1120px;
+  height: 70px;
+}
+.top-1-g{
+  position: relative;
+  left: 50px;
+  margin:0 auto;
+}
+.top-logo{
+  width:170px;
+  height: 70px;
+  margin-left: -50px;
+  float: left;
+  line-height:30px;
+}
+.top-li{
+  margin-left: 10px;
+  width: 550px;
+  height: 70px;
+  float: left;
+}
+.top-login{
+  width: 230px;
+  height: 70px;
+  float: left;
+  margin-left: 35px;
+  margin-top: -2px;
+}
+.top-logo-image{
+  width: 35px;
+  height: 28px;
+}
+.top-logo-p{
+  position: relative;
+  width: 50px;
+  height: 40px;
+  /*设置外边距，各参数分别表示上右下左*/
+  margin: 21px 0px 0px 10px;
+}
+.top-logo-text {
+  position: relative;
+  left: 52px;
+  top: -41px;
+  color: #e2e2e2;
+  font-size: 28px;
+  font-family: 宋体;
+}
+.top-li ul{
+  position: relative;
+  left: -40px;
+}
+.top-li ul li{
+   color: #b8b8b8;
+   left: 30px;
+   font-size: 14px;
+   line-height: 70px;
+   text-align: center;
+}
+.top-li ul .top-li-1{
+   width: 95px;
+   height: 70px;
+}
+
+
+.top-li ul .top-li-2{
+  width: 66px;
+  height: 70px;
+}
+
+
+/* 超链接跳转字体 */
+.top-li ul a{
+  color: #b8b8b8;
+  text-decoration: none;
+}
+.top-li ul a:hover{
+  color: #b8b8b8;
+}
+
+.top-li ul .top-li-3{
+  width: 81px;
+  height: 70px;
+}
+.top-li .top-li-3:hover{
+  background: url("../images/sprites/topbar.png") no-repeat 0 -155px;
+  /*利用background-size设置sprites的宽度，使定位的图片的宽度适应div*/
+  background-size:81px 623px;
+}
+
+.top-li .top-li-2:hover{
+  background: url("../images/sprites/topbar.png") no-repeat 0 -155px;
+  /*利用background-size设置sprites的宽度，使定位的图片的宽度适应div*/
+  background-size:66px 623px;
+}
+.top-li .top-li-1:hover{
+  background: url("../images/sprites/topbar.png") no-repeat 0 -155px;
+  /*利用background-size设置sprites的宽度，使定位的图片的宽度适应div*/
+  background-size:95px 623px;
+}
+
+/*此处用.hot-li不用.top-li ul  .hot-li不生效*/
+.top-li ul  .hot-li{
+  width: 108px;
+  height: 70px;
+}
+.top-li .hot-li:hover{
+  background: url("../images/sprites/topbar.png") no-repeat 0 -155px;
+  /*利用background-size设置sprites的宽度，使定位的图片的宽度适应div*/
+  background-size:108px 623px;
+}
+
+
+/* 搜索 */
+.top-search{
+  position: relative;
+  height: 25px;
+  width: 133px;
+  /*将文本框变为圆角*/
+  border-radius: 20px;
+  margin: 23px 30px;
+/* 清除点击文本框会出现的外框 */ 
+  outline:none;
+  /*文本框光标后移*/
+  padding-left: 25px;
+  /*文本框背景色*/
+  background: #ffffff;
+  left: -30px;
+}
+.top-search-img{
+  height: 20px;
+  width: 20px;
+  position: relative;
+  left: -110px;
+  top: -47px;
+  background: white;
+}
+.top-sptg{
+  float: left;
+  position: relative;
+  height: 32px;
+  width: 90px;
+  border-radius: 20px;
+  border: #4f4f4f 1px solid;
+  left:185px;
+  top:-54px;
+}
+.top-sptg img{
+  margin: 6px 7px;
+}
+.top-login-button{
+  float: left;
+  position: relative;
+  left:210px;
+  top:-46px;
+  color: #787878;
+  font-size: 12px;
+}
+
+
+
+
+.top-2{
+  width: 1120px;
+  height: 36px;
+  margin: 0 auto;
+}
+.top-2 ul li{
+  color: #ffffff;
+  left:160px;
+  font-size: 12px;
+  margin-left:34px ;
+  line-height: 18px;
+  text-align: center;
+}
+.top-2 ul li:hover{
+  background: url("../images/sprites/topbar.png") no-repeat -20px -276px;
+}
+.top-2-2{
+  margin-top: 8px;
+  width: 52px;
+  height: 20px;
+  border-radius: 8px;
+}
+
+.top-2-3{
+  margin-top: 8px;
+  width: 64px;
+  height: 20px;
+  border-radius: 8px;
+}
+.top-2-4{
+  margin-top: 8px;
+  width: 76px;
+  height: 20px;
+  border-radius: 8px;
+}

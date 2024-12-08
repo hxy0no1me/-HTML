@@ -1,0 +1,133 @@
+.main-1-List{
+  position: relative;
+  top:490px;
+  width: 731px;
+  height: 580px;
+  background: #ffffff;
+}
+.main-1-List .Recommend-bar {
+  position: relative;
+  top: -380px;
+}
+.main-1-List .Recommend-bar .Recommend-red{
+  position: relative;
+  top: 17px;
+}
+.list-ground{
+  position: relative;
+  height: 470px;
+  width: 689px;
+  background: #ffffff;
+  left: 20px;
+  top: 10px;
+}
+.list-ground ul{
+  position: relative;
+  left: -151px;
+  top: 50px;
+}
+.list-ground li{
+  float: left;
+  height: 470px;
+  width: 229px;
+  margin-left: 0;
+}
+
+.list-biaosheng,
+.list-xinge, .list-yuanchuang{
+  height: 468px;
+  width: 229px;
+  background: #f4f4f4;
+  margin-left: 0;
+  margin-right: 0;
+  border-left: solid 1px #d3d3d3;
+  border-top: solid 1px #d3d3d3;
+
+}
+
+
+.gequ-li-h{
+  border-bottom: solid 1px #d3d3d3;
+}
+.list-yuanchuang{
+  border-right: solid 1px #d3d3d3;
+}
+.list-ground img{
+  position: relative;
+  left: 20px;
+  top: 20px;
+  border: solid 1px #cccccc;
+  width: 80px;
+  height: 80px;
+  float: left;
+}
+.list-ground .list-top-b{
+  position: relative;
+  top: 28px;
+  left: 27px;
+  font-size: 14px;
+}
+.list-ground  .gequ-li{
+  margin: 0;
+  clear:both;
+  height: 30px;
+  width: 229px;
+  background: #f4f4f4;
+  top: 45px;
+  left: 128px;
+  border-top:  solid 1px #d3d3d3;
+  border-left:  solid 1px #d3d3d3;
+  float: left;
+}
+
+.list-ground  .gequ-li-1{
+  margin: 0;
+  clear:both;
+  height: 30px;
+  width: 229px;
+  background: #e8e8e8;
+  position: relative;
+  top: 45px;
+  left: 128px;
+  border-top:  solid 1px #d3d3d3;
+  border-left:  solid 1px #d3d3d3;
+  float: left;
+}
+.list-ground p{
+  position: relative;
+  top: -11px;
+  left: 48px;
+  color: black;
+  font-size: 12px;
+}
+.list-ground   .gequ-li-b{
+  position: relative;
+  top: 7px;
+  left:28px;
+  font-size: 14px;
+  color: #666666;
+}
+.list-ground   .gequ-li-b-red{
+  position: relative;
+  top: 7px;
+  left:28px;
+  font-size: 14px;
+
+  color: #d37373;
+}
+.list-ground .list-quanbu{
+  position: relative;
+  top: 6px;
+  left:150px;
+}
+
+.main-2{
+  position: relative;
+  top: -5px;
+  float: left;
+  width: 249px;
+  height: 1427px;
+  background: #ffffff;
+  border-left:  solid 1px #d3d3d3;
+  border-right:  solid 1px #d3d3d3;
+}

@@ -1,0 +1,52 @@
+.body-foot{
+  width: 100%;
+  height: 150px;
+  background:  #f2f2f2;
+  border-top:  solid 1px #d3d3d3;
+}
+.foot-g{
+  height: 150px;
+  width: 987px;
+  margin: 0 auto;
+  background:  #f2f2f2;
+}
+.foot-left{
+  float: left;
+  height: 150px;
+  width: 600px;
+}
+.foot-left li{
+  margin-left: 5px;
+  font-size: 12px;
+  position: relative;
+  left: 3px;
+  color: #999999;
+  margin-top: 30px;
+}
+.foot-left p{
+  margin-top: 7px;
+  position: relative;
+  font-size: 12px;
+  clear: both;
+  left: 8px;
+  color: #666666;
+  top: 7px;
+}
+.foot-right{
+  float: left;
+  height: 150px;
+  width: 387px;
+}
+.foot-right ul{
+  margin-left: 50px;
+}
+.foot-right li{
+  margin-top: 26px;
+  margin-left: 16px;
+  font-size: 11px;
+  color: #898989;
+}
+.foot-right-4{
+  position: relative;
+  top: -3px;
+}

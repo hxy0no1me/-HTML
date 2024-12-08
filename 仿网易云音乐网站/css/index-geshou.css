@@ -1,0 +1,92 @@
+.geshou{
+  position: relative;
+  top: -5px;
+  height: 560px;
+  width: 249px;
+  background: #ffffff;
+  border-top: #e0e0e0 2px solid;
+}
+.geshou-all-g{
+  width: 249px;
+  height: 500px;
+  background: #ffffff;
+
+}
+.geshou-g{
+  width: 212px;
+  height: 62px;
+  background: #fafafa;
+  border: #d4d4d4 1px solid;
+  /*position: relative;*/
+  margin-left: 59px;
+  margin-top: 20px;
+}
+.geshou-b{
+  margin-left: 20px;
+  margin-top: 20px;
+  float: left;
+  font-size: 12px;
+  color: #333333;
+}
+.geshou-p{
+  margin-left: 100px;
+  margin-top: 20px;
+  float: left;
+  color:   #666666;
+  font-size: 12px;
+}
+.geshou-img{
+  margin-left: 10px;
+}
+.geshou ul{
+  margin-top: -45px;
+}
+.geshou img{
+  float: left;
+}
+.geshou li{
+  float: left;
+  clear: both;
+  font-size: 13px;
+  /*单行显示溢出文字用省略号表示*/
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+.geshou ul{
+  position: relative;
+  top: 40px;
+  left: -40px;
+}
+
+.geshou li b {
+  margin-left: 10px;
+  position: relative;
+  top: 8px;
+  color: #4b4b4b;
+  font-size: 14px;
+}
+.geshou li p{
+  margin-top: 22px;
+  margin-left: 73px;
+  width: 109px;
+  /*单行显示溢出文字用省略号表示*/
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  color: #666666;
+  font-size: 12px;
+}
+.geshou-sq-g{
+
+  width: 212px;
+  height: 32px;
+  background: -webkit-linear-gradient(top,#ffffff, #f3f3f3);
+  border: #c3c3c3 1px solid;
+  border-radius: 5px;
+  margin: 0 auto;
+}
+.geshou-sq-p{
+  margin-left: 35px;
+  margin-top: 5px;
+}

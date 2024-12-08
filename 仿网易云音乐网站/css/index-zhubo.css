@@ -1,0 +1,62 @@
+.zhubo{
+  position: relative;
+  top: -5px;
+  height: 490px;
+  width: 249px;
+  background: #ffffff;
+}
+.zhubo-b{
+  margin-left: 20px;
+  margin-top: 20px;
+  float: left;
+  font-size: 12px;
+  color: #333333;
+}
+.zhubo-p{
+  margin-left: 100px;
+  margin-top: 20px;
+  float: left;
+  color:   #666666;
+  font-size: 12px;
+}
+
+.zhubo-img{
+  margin-left: 10px;
+}
+.zhubo ul{
+  margin-top: -45px;
+}
+.zhubo img{
+  float: left;
+}
+.zhubo li{
+  float: left;
+  clear: both;
+  font-size: 13px;
+  /*单行显示溢出文字用省略号表示*/
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+.zhubo ul{
+  position: relative;
+  top: 40px;
+  left: -40px;
+}
+.zhubo-g{
+  margin-left: 59px;
+  margin-top: 20px;
+}
+.zhubo li .zhubo-name {
+  position: relative;
+  top: 0px;
+  left: 7px;
+  color: #000000;
+  font-size: 12px;
+}
+.zhubo li .zhubo-js{
+  position: relative;
+  left: 7px;
+  margin-top: 6px;
+  margin-left: 7px;
+}

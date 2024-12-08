@@ -1,0 +1,22 @@
+.return{
+  height: 42px;
+  width: 49px;
+  background: #f4f4f4;
+  border: #d3d3d3 1px solid;
+  border-radius: 5px;
+  /*相对屏幕定位*/
+  position:fixed;
+  bottom: 120px;
+  right: 50px;
+}
+.return-jt{
+  height: 6px;
+  width: 12px;
+  background: url("../images/sprites/icon.png") no-repeat -44px -521px;
+  margin: 12px 17px;
+}
+.return-p{
+  margin: -14px 12px;
+  color: #656665;
+  font-size: 9px;
+}

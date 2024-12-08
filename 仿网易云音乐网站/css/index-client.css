@@ -1,0 +1,33 @@
+/*    阴影实现多重边框案例（此例比本作品的多重边框明显，笔记之）
+  -webkit-box-shadow: inset 0 0 0 10px brown, inset 0 0 0 20px yellow, inset 0 0 0 30px green;*/
+.client-2{
+  margin-top: -7px;
+  width: 249px;
+  height: 123px;
+  background: -webkit-linear-gradient(top,#fdfdfd, #e2e2e2);
+}
+.c2-p p{
+  position: relative;
+  left: 4px;
+  line-height: 25px;
+  margin: 10px auto;
+  font-size: 12px;
+  color: #8c8c8c;
+  width: 211px;
+}
+.c2-red{
+  margin: 15px auto;
+  color: #fff1f1;
+  font-size: 13px;
+  background: #c0080d;
+  width: 103px;
+  height: 32px;
+  border-radius: 10px;
+}
+.c2-red p{
+  text-align: center;
+  line-height: 30px;
+  margin: 0 auto;
+  /*有宽度才能居中*/
+  width: 60px;
+}
